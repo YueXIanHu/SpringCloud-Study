@@ -10,18 +10,6 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>springclouddemo-api</module>
-        <module>springclouddemo-consumer-dept-80</module>
-        <module>springclouddemo-euraka-7001</module>
-        <module>springclouddemo-euraka-7002</module>
-        <module>springclouddemo-euraka-7003</module>
-        <module>springclouddemo-provider-dept-8001</module>
-        <module>springclouddemo-provider-dept-8002</module>
-        <module>springclouddemo-provider-dept-8003</module>
-        <module>springclouddemo-provider-dept-hystrix-8001</module>
-        <module>springclouddemo-consumer-dept-feign</module>
-        <module>springclouddemo-consumer-hystrix-dashboard</module>
-        <module>springclouddemo-zuul-gateway-9527</module>
     </modules>
 
     <properties>
